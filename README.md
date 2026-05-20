@@ -393,17 +393,6 @@ This project demonstrates:
 
 </div>
 
----
-
-# ⭐ Support
-
-If you found this project useful:
-
-- ⭐ Star the repository
-- 🍴 Fork it
-- 🔔 Follow for updates
-
----
 
 <div align="center">
 
